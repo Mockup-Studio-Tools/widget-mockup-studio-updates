@@ -1,8 +1,10 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "minVersion": "1.0.0",
   "date": "2026-11-06",
   "notes": [
-    "Ausgeblendete Buttons erscheinen nur noch, wenn sie gebraucht werden (z. B. „Bearbeitung abschließen“ erst nach dem Verbinden)"
+    "Update-Anleitung verbessert: Der bisherige Ordner steht unter „Erweiterungen öffnen“ → Quelle",
+    "Wichtig: Für Updates die Erweiterung nicht entfernen, sonst gehen gespeicherte Positionen verloren",
+    "Eigenes Siegel hochladen entfernt, das schwebende Trustbadge nutzt immer das offizielle Siegel"
   ]
 }
