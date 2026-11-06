@@ -1,10 +1,9 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "minVersion": "1.0.0",
   "date": "2026-11-06",
   "notes": [
-    "Update-Anleitung verbessert: Der bisherige Ordner steht unter „Erweiterungen öffnen“ → Quelle",
-    "Wichtig: Für Updates die Erweiterung nicht entfernen, sonst gehen gespeicherte Positionen verloren",
-    "Eigenes Siegel hochladen entfernt, das schwebende Trustbadge nutzt immer das offizielle Siegel"
+    "„Herunterladen“ lädt die neue Version direkt von der internen Confluence-Seite",
+    "Neuer Link „Anleitung“ im Update-Hinweis und im Abschnitt Version"
   ]
 }

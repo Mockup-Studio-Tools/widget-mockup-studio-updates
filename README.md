@@ -16,7 +16,8 @@ Andere Felder ignoriert die Erweiterung. Der Download-Link ist fest in der Erwei
 ## Reihenfolge bei einem neuen Release
 
 1. Code-Repo: Version im Manifest erhöhen, committen, pushen.
-2. Die GitHub Action im Code-Repo legt das Release mit ZIP automatisch an (ca. 1 Minute).
-3. Erst wenn das Release steht, hier `version.json` aktualisieren.
+2. Die GitHub Action im Code-Repo legt das Release mit ZIP automatisch an.
+3. Die ZIP auf der internen Download-Seite ersetzen.
+4. Erst danach hier `version.json` aktualisieren.
 
 Keine Kundennamen oder internen Adressen in die Änderungstexte – dieses Repo ist öffentlich.
