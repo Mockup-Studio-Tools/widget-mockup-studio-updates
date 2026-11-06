@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "minVersion": "1.0.0",
   "date": "2026-11-06",
   "notes": [
-    "Neu: Update-Hinweis – die Erweiterung meldet automatisch, wenn es eine neue Version gibt"
+    "Ausgeblendete Buttons erscheinen nur noch, wenn sie gebraucht werden (z. B. „Bearbeitung abschließen“ erst nach dem Verbinden)"
   ]
 }
