@@ -1,9 +1,17 @@
 {
-  "version": "1.7.3",
+  "version": "1.8.1",
   "minVersion": "1.0.0",
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "notes": [
-    "„Herunterladen“ lädt die neue Version direkt von der internen Confluence-Seite",
-    "Neuer Link „Anleitung“ im Update-Hinweis und im Abschnitt Version"
+    "Bedienoberfläche jetzt auch auf Englisch – Sprache im neuen Optionsmenü (Zahnrad oben rechts) wählen",
+    "„Anleitung“ öffnet die Confluence-Seite in der gewählten Sprache",
+    "Handyansicht übernimmt die Sprache des Browsers",
+    "In der ZIP steht in VERSION.txt, welche Version in einem Ordner liegt"
+  ],
+  "notes_en": [
+    "Interface now also available in English – choose the language in the new options menu (gear icon, top right)",
+    "\"Guide\" opens the Confluence page in the selected language",
+    "Mobile view uses the browser language",
+    "VERSION.txt in the ZIP shows which version a folder contains"
   ]
 }
