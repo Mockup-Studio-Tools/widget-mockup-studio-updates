@@ -1,17 +1,15 @@
 {
-  "version": "1.8.1",
+  "version": "1.9.0",
   "minVersion": "1.0.0",
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "notes": [
-    "Bedienoberfläche jetzt auch auf Englisch – Sprache im neuen Optionsmenü (Zahnrad oben rechts) wählen",
-    "„Anleitung“ öffnet die Confluence-Seite in der gewählten Sprache",
-    "Handyansicht übernimmt die Sprache des Browsers",
-    "In der ZIP steht in VERSION.txt, welche Version in einem Ordner liegt"
+    "Das schwebende Trustbadge ist jetzt das echte Trustbadge von Trusted Shops: auf Desktop als Karte, mobil kompakt, Trustcard per Klick",
+    "Shopname, Note und Anzahl im Trustbadge kommen aus den Kundendaten",
+    "„Abstand unten“ heißt jetzt „Zusätzlich nach oben“"
   ],
   "notes_en": [
-    "Interface now also available in English – choose the language in the new options menu (gear icon, top right)",
-    "\"Guide\" opens the Confluence page in the selected language",
-    "Mobile view uses the browser language",
-    "VERSION.txt in the ZIP shows which version a folder contains"
+    "The floating Trustbadge is now the real Trusted Shops Trustbadge: a card on desktop, compact on mobile, Trustcard on click",
+    "Shop name, rating and review count in the Trustbadge come from the customer data",
+    "\"Distance from bottom\" is now \"Extra lift\""
   ]
 }
