@@ -1,15 +1,15 @@
 {
-  "version": "1.9.0",
+  "version": "1.11.0",
   "minVersion": "1.0.0",
-  "date": "2026-11-10",
+  "date": "2026-11-12",
   "notes": [
-    "Das schwebende Trustbadge ist jetzt das echte Trustbadge von Trusted Shops: auf Desktop als Karte, mobil kompakt, Trustcard per Klick",
-    "Shopname, Note und Anzahl im Trustbadge kommen aus den Kundendaten",
-    "„Abstand unten“ heißt jetzt „Zusätzlich nach oben“"
+    "Neues Widget „Trusted Checkout“ für Warenkorb und Kasse: Box mit Siegel und Hinweis auf den Käuferschutz, übernimmt Hell/Dunkel und die Schrift des Shops",
+    "Das schwebende Trustbadge ist jetzt das Trustbadge AI+ als Grafik – mit „e“ (Trusted Login), auch für Interessenten ohne Channel-ID",
+    "Neuer Button „Trustbadge AI+“ blendet es ein und aus"
   ],
   "notes_en": [
-    "The floating Trustbadge is now the real Trusted Shops Trustbadge: a card on desktop, compact on mobile, Trustcard on click",
-    "Shop name, rating and review count in the Trustbadge come from the customer data",
-    "\"Distance from bottom\" is now \"Extra lift\""
+    "New \"Trusted Checkout\" widget for cart and checkout: a box with seal and a note on buyer protection, adopts light/dark and the shop's font",
+    "The floating Trustbadge is now the Trustbadge AI+ as a graphic – with the \"e\" (Trusted Login), also for prospects without a channel ID",
+    "New \"Trustbadge AI+\" button shows and hides it"
   ]
 }
