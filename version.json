@@ -1,15 +1,15 @@
 {
-  "version": "1.11.0",
+  "version": "1.13.0",
   "minVersion": "1.0.0",
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "notes": [
-    "Neues Widget „Trusted Checkout“ für Warenkorb und Kasse: Box mit Siegel und Hinweis auf den Käuferschutz, übernimmt Hell/Dunkel und die Schrift des Shops",
-    "Das schwebende Trustbadge ist jetzt das Trustbadge AI+ als Grafik – mit „e“ (Trusted Login), auch für Interessenten ohne Channel-ID",
-    "Neuer Button „Trustbadge AI+“ blendet es ein und aus"
+    "Geführter Start: Solange „Seite bearbeiten“ nicht geklickt ist, sind „Widgets einbauen“ und „Demo speichern“ ausgegraut, ein Hinweis führt zum Button",
+    "Kundendaten und Ansicht lassen sich schon vorher vorbereiten",
+    "Neu im Zahnrad-Menü: Fehler melden (vorbereitete Mail mit Screenshot) und Wünsche oder Feedback (Kommentar in Confluence)"
   ],
   "notes_en": [
-    "New \"Trusted Checkout\" widget for cart and checkout: a box with seal and a note on buyer protection, adopts light/dark and the shop's font",
-    "The floating Trustbadge is now the Trustbadge AI+ as a graphic – with the \"e\" (Trusted Login), also for prospects without a channel ID",
-    "New \"Trustbadge AI+\" button shows and hides it"
+    "Guided start: until \"Edit page\" is clicked, \"Add widgets\" and \"Save demo\" are greyed out and a hint leads to the button",
+    "Customer data and view can be prepared beforehand",
+    "New in the gear menu: report a bug (prepared email with screenshot) and requests or feedback (comment in Confluence)"
   ]
 }
