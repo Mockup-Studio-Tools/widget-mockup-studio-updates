@@ -1,15 +1,15 @@
 {
-  "version": "1.13.0",
+  "version": "1.13.2",
   "minVersion": "1.0.0",
   "date": "2026-11-13",
   "notes": [
-    "Geführter Start: Solange „Seite bearbeiten“ nicht geklickt ist, sind „Widgets einbauen“ und „Demo speichern“ ausgegraut, ein Hinweis führt zum Button",
-    "Kundendaten und Ansicht lassen sich schon vorher vorbereiten",
-    "Neu im Zahnrad-Menü: Fehler melden (vorbereitete Mail mit Screenshot) und Wünsche oder Feedback (Kommentar in Confluence)"
+    "Blockiert eine andere Chrome-Erweiterung wie Grips „Seite bearbeiten“, erklärt die Seitenleiste jetzt Ursache und Lösung (Website-Zugriff der anderen Erweiterung auf „Wenn Sie auf die Erweiterung klicken“ stellen)",
+    "Geführter Start (1.13.0): Solange „Seite bearbeiten“ nicht geklickt ist, sind „Widgets einbauen“ und „Demo speichern“ ausgegraut, ein Hinweis führt zum Button",
+    "Neu im Zahnrad-Menü (1.12.0): Fehler melden (vorbereitete Mail mit Screenshot) und Wünsche oder Feedback (Kommentar in Confluence)"
   ],
   "notes_en": [
-    "Guided start: until \"Edit page\" is clicked, \"Add widgets\" and \"Save demo\" are greyed out and a hint leads to the button",
-    "Customer data and view can be prepared beforehand",
-    "New in the gear menu: report a bug (prepared email with screenshot) and requests or feedback (comment in Confluence)"
+    "If another Chrome extension such as Grips blocks \"Edit page\", the side panel now explains the cause and the fix (set the other extension's site access to \"When you click the extension\")",
+    "Guided start (1.13.0): until \"Edit page\" is clicked, \"Add widgets\" and \"Save demo\" are greyed out and a hint leads to the button",
+    "New in the gear menu (1.12.0): report a bug (prepared email with screenshot) and requests or feedback (comment in Confluence)"
   ]
 }
